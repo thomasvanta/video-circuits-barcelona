@@ -7,7 +7,7 @@ VCB is a community meet-up for anyone interested or curious about video circuitr
 at Akasha hub  
 with htp.syntonie & cinema.av  
 --  
-<a href="notes/VCB_VIDICON_2021.md"><img src="images/VCB#1_2023-12-01/event.jpg" width="660"></a>
+<a href="notes/VCB_VIDICON_2021.md"><img src="images/VCB-1_2023-12-01/event.jpg" width="660"></a>
   
 
 
