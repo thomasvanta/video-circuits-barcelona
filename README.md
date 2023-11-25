@@ -1,8 +1,14 @@
-# Video Circuits Berlin
+# Video Circuits Barcelona  
 
-VCB is a community meet-up for anyone interested or curious about video circuitry, synthesis, visual coding, DIY electronics and tools.
+VCB is a community meet-up for anyone interested or curious about video circuitry, synthesis, visual coding, DIY electronics and tools.  
 
-# VIDICON - 12-14th Nov 2021
+# VCB005 - 1st Dec 2023
+
+Akasha hub, htp.syntonie & cinema.av  
+
+# Past Berlin editions:  
+
+# VIDICON - 12-14th Nov 2021  
 
 <a href="notes/VCB_VIDICON_2021.md"><img src="images/VCB_VIDICON_2021/event.jpg" width="660"></a>
 
