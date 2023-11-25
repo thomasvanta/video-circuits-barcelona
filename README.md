@@ -2,9 +2,18 @@
 
 VCB is a community meet-up for anyone interested or curious about video circuitry, synthesis, visual coding, DIY electronics and tools.  
 
-# VCB005 - 1st Dec 2023
+# VCB #1 - 1st Dec 2023
 
-Akasha hub, htp.syntonie & cinema.av  
+@ Akasha hub  
+with htp.syntonie & cinema.av  
+--  
+--  
+--
+  
+
+
+
+
 
 # Past Berlin editions:  
 
