@@ -1,6 +1,9 @@
 # Video Circuits Barcelona  
 
 VCB is a community meet-up for anyone interested or curious about video circuitry, synthesis, visual coding, DIY electronics and tools.  
+Join our telegram chat [here](https://t.me/+SJBYBTik9lEzMjg0)  
+
+
 
 ## VCB #1 - 1st Dec 2023
 
